@@ -1,0 +1,25 @@
+Projeto : Interface Web para upload de arquivos, normaliza os dados e armazene-os no banco de dados.
+
+Passo a passo para configurar o ambiente e rodar a aplicação na maquina do avaliador:
+
+- Abrir o projeto. (O projeto foi desenvolvido no Visual Studio 2015 Community.)
+- Alterar a String de Conexão: (se desejar usar uma base da sua escolha, senão uma base lab em um servidor remoto, foi criada).
+	- Acessar o arquivo web.config do projeto: Avaliacao.WorkinHub.Web.
+	- Alterar as credenciais de acesso da base de dados que deseja testar.(Data Source / Initial Catalog / User Id / Password)
+	* Caso tenha trocado a string de conexão para uma nova base, não esquecer de trocar as credenciais no App.Config do projeto de Tests.
+	
+- Caso a base de dados não seja criada automaticamente, através do Migrations:
+	- Visual Studio >> Menu Tools >> NuGet Package Manager >> Package Manager Console
+	- Digitar no console : Update_database -verbose
+
+- O arquivo a ser rodado dever ter a primera linha como cabeçalho com campos delimitados com TAB.
+	Ex: "Comprador		descrição					Preço Uniário	Quantidade	Endereço			Fornecedor"
+
+- Alguns testes criados estão no projeto: Avaliacao.WorkinHub.Web.Tests	
+
+Após esses procedimentos você pode rodar a aplicação via Debug do VS em máquina local acessando o database escolhido.
+
+
+
+
+	
