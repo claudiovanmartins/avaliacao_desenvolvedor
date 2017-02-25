@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnectionString-Web.config Connection String" description="DefaultConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=mssql3.gear.host; Initial Catalog=labdatabase; User ID=labdatabase; Password=Cj3D42sLC_-7;Persist Security Info=True;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\claud\\Documents\\VS\ Lab\ Projects\\Avaliacao\\Avaliacao\.WorkinHub\\Avaliacao\.WorkinHub\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnectionString_DatabasePublish-Web.config Connection String" description="DefaultConnectionString_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="DefaultConnectionString_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\claud\\Documents\\VS\ Lab\ Projects\\Avaliacao\\Avaliacao\.WorkinHub\\Avaliacao\.WorkinHub\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnectionString_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

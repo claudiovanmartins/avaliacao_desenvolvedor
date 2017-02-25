@@ -1,0 +1,100 @@
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\obj\Debug\Avaliacao.WorkinHub.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.Tests.dll.config
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.Tests.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.Tests.pdb
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.pdb
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\obj\Debug\Avaliacao.WorkinHub.Web.Tests.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\obj\Debug\Avaliacao.WorkinHub.Web.Tests.pdb
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Castle.Core.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Castle.Core.xml
+C:\Users\claud\Documents\VS Lab Projects\Avaliacao\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.Tests.dll.config
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.Tests.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.Tests.pdb
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Castle.Core.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Avaliacao.WorkinHub.Web.pdb
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Castle.Core.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\obj\Debug\Avaliacao.WorkinHub.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\obj\Debug\Avaliacao.WorkinHub.Web.Tests.dll
+C:\Users\claud\Documents\Source\Git\avaliacao_desenvolvedor\Avaliacao.WorkinHub\Avaliacao.WorkinHub.Web.Tests\obj\Debug\Avaliacao.WorkinHub.Web.Tests.pdb

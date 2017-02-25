@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avaliacao.WorkinHub.Web", "Avaliacao.WorkinHub.Web\Avaliacao.WorkinHub.Web.csproj", "{0A553C9D-C03B-4F62-9C9D-E1C7C238E434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avaliacao.WorkinHub.Web.Tests", "Avaliacao.WorkinHub.Web.Tests\Avaliacao.WorkinHub.Web.Tests.csproj", "{7442369D-457E-490E-BE4D-F8CCE727A374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A553C9D-C03B-4F62-9C9D-E1C7C238E434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A553C9D-C03B-4F62-9C9D-E1C7C238E434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A553C9D-C03B-4F62-9C9D-E1C7C238E434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A553C9D-C03B-4F62-9C9D-E1C7C238E434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7442369D-457E-490E-BE4D-F8CCE727A374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7442369D-457E-490E-BE4D-F8CCE727A374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7442369D-457E-490E-BE4D-F8CCE727A374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7442369D-457E-490E-BE4D-F8CCE727A374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

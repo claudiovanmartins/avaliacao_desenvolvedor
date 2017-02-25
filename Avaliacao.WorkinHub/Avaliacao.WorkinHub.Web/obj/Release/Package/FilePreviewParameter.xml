@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="avaliacaoworkinhub" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\claud\\Documents\\VS\ Lab\ Projects\\Avaliacao\\Avaliacao\.WorkinHub\\Avaliacao\.WorkinHub\.Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\claud\\Documents\\VS\ Lab\ Projects\\Avaliacao\\Avaliacao\.WorkinHub\\Avaliacao\.WorkinHub\.Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnectionString-Web.config Connection String" description="" value="Data Source=mssql3.gear.host; Initial Catalog=labdatabase; User ID=labdatabase; Password=Cj3D42sLC_-7;Persist Security Info=True;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\claud\\Documents\\VS\ Lab\ Projects\\Avaliacao\\Avaliacao\.WorkinHub\\Avaliacao\.WorkinHub\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
